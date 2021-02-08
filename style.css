@@ -13,7 +13,7 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
-/* ============= for nav-area ============== */
+/* =============> Navigation area <============== */
 .nav{
     width: 75%;
     margin:auto ;
@@ -51,7 +51,7 @@ body{
     color: #fff;
 }
 
-/* ============= for search-area ============== */
+/* =============> Search area <============== */
 .search-area {
     width: 570px;
     margin:auto;
@@ -102,7 +102,7 @@ body{
 }
 
 
-/* ======================== for meal -area ====================== */
+/* ===========> meal area <============= */
 .meal-area{
     width: 75%;
     margin:auto ;
@@ -131,7 +131,7 @@ body{
     font-weight: 300;
 }
 
-/*================= for not found================== */
+/* =============> Can't found area <============ */
 .cant-found{
     font-size: 30px;
     text-align: center;
@@ -141,7 +141,7 @@ body{
     display: none;
 }
 
-/* ================== for display-ingredients========== */
+/* =========> Display ingredients area <============= */
 #display-ingredients{
 
 }
