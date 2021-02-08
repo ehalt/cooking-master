@@ -106,7 +106,7 @@ body{
 .meal-area{
     width: 75%;
     margin:auto ;
-    padding-bottom: 60px;
+    padding-bottom: 30px;
 }
 .meals{
     display: grid;
